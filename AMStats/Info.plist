@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key></key>
+	<string></string>
+	<key>CFBundleIconName</key>
+	<string>AppIcon</string>
+	<key>BGTaskSchedulerPermittedIdentifiers</key>
+	<array>
+		<string>UpdateListeningHistoryASAP</string>
+		<string>UpdateListeningHistory</string>
+	</array>
+	<key>UIAppFonts</key>
+	<array>
+		<string>VarelaRound-Regular.ttf</string>
+		<string>Poppins-Regular.ttf</string>
+	</array>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>processing</string>
+	</array>
+</dict>
+</plist>
